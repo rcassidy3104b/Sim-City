@@ -1,0 +1,2 @@
+This is the Final Project 1 turn-in for Ryan Cassidy, Caleb Pickett, Camden McCoy, Bernice Chiaha, and Mohammed Aqib.
+The project is able to be compiled with the command:  g++ *.cpp . In order for the program to function, the two input files must be in the same directory as the executable when it is run. 
